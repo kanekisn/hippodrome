@@ -1,0 +1,26 @@
+2023-12-10 21:58:23,553 ERROR Hippodrome: Horses list is empty
+2023-12-10 21:58:24,658 ERROR Hippodrome: Horses list is null
+2023-12-10 21:58:24,758 ERROR Horse: Name is blank
+2023-12-10 21:58:24,763 ERROR Horse: Name is blank
+2023-12-10 21:58:24,767 ERROR Horse: Name is blank
+2023-12-10 21:58:24,770 ERROR Horse: Speed is negative
+2023-12-10 21:58:24,808 ERROR Horse: Name is null
+2023-12-10 21:58:24,811 ERROR Horse: Distance is negative
+2023-12-10 22:02:37,860 ERROR Hippodrome: Horses list is empty
+2023-12-10 22:02:38,993 ERROR Hippodrome: Horses list is null
+2023-12-10 22:02:39,082 ERROR Horse: Name is blank
+2023-12-10 22:02:39,087 ERROR Horse: Name is blank
+2023-12-10 22:02:39,090 ERROR Horse: Name is blank
+2023-12-10 22:02:39,093 ERROR Horse: Speed is negative
+2023-12-10 22:02:39,136 ERROR Horse: Name is null
+2023-12-10 22:02:39,139 ERROR Horse: Distance is negative
+2023-12-10 22:02:39,160 INFO  Main: Начало скачек. Количество участников: 7
+2023-12-10 22:02:59,705 INFO  Main: Окончание скачек. Победитель: Cherry
+2023-12-10 22:05:08,706 ERROR Hippodrome: Horses list is empty
+2023-12-10 22:05:09,805 ERROR Hippodrome: Horses list is null
+2023-12-10 22:05:09,895 ERROR Horse: Name is blank
+2023-12-10 22:05:09,901 ERROR Horse: Name is blank
+2023-12-10 22:05:09,903 ERROR Horse: Name is blank
+2023-12-10 22:05:09,906 ERROR Horse: Speed is negative
+2023-12-10 22:05:09,943 ERROR Horse: Name is null
+2023-12-10 22:05:09,946 ERROR Horse: Distance is negative
